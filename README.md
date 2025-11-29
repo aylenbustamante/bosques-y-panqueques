@@ -1,2 +1,2 @@
-# bootstrap
-Una web hecha con bootstrap y p5*js 
+# bosques-y-panqueques
+web hecha con bootstrap
